@@ -52,7 +52,7 @@ public class Main {
 
         while (marker<stringToCompress.length()){
             i=1;
-            while (i<)
+            marker++;
 
         }
 
